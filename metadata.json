@@ -1,0 +1,6 @@
+{
+  "name": "InternShape",
+  "description": "Platform manajemen proyek magang, jaringan bimbingan mentor, dan portal penerbitan serta verifikasi sertifikat digital resmi mahasiswa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
